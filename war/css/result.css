@@ -1,0 +1,266 @@
+/*********************************************************************************/
+/* Result                                                                       */
+/*********************************************************************************/
+.result {
+	background-color: #c0c0c0;
+	color: #000000;
+	font-family: inherit;
+	font-size: inherit;
+	margin: 2em auto;
+	padding: 20px;
+	width: 1140px;
+}
+
+/* .result ul li { */
+/* 	display: inline-flex; */
+/* } */
+#same_keyword ul li {
+	display: inline;
+	padding-right: 20px;
+}
+
+.col4 {
+	width: 5em;
+}
+
+.col3 {
+	width: 10em;
+}
+
+.col2 {
+	width: 70em;
+}
+
+.col1 {
+	width: 10em;
+}
+
+table tr {
+	background-color: #E0E0E0;
+	border: 2px solid black;
+	width: 73em;
+	vertical-align: top;
+}
+
+table li {
+	list-style: none;
+}
+
+table td {
+	padding: 10px;
+	cursor: pointer;
+}
+
+.iconstatus, .statusLink {
+	width: 32px;
+	height: 32px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+.overwrite {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 5px;
+	display: block;
+}
+
+.imageloading {
+	width: 160px;
+	height: 120;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+#info_image tr {
+	background-color: #ffffff;
+	border: 5px solid black;
+	width: 1000px;
+	vertical-align: center;
+}
+
+#info_image td {
+	padding: 10px;
+	cursor: pointer;
+}
+
+.result h2 {
+	color: #0000FF;
+	font-family: inherit;
+	font-size: inherit;
+}
+
+#head ul {
+	display: inline;
+}
+
+#h1 ul li {
+	display: list-item;
+	margin-right: 2px;
+}
+
+#images {
+	display: inline;
+	width: 100px;
+	height: 100px;
+}
+
+#images img {
+	width: 256px;
+	height: 256px;
+	padding: 2px;
+	text-align: center;
+}
+
+#h1 li {
+	display: block;
+}
+
+#images li {
+	display: block;
+}
+
+#h2 li {
+	display: block;
+}
+
+#links li {
+	color: blue;
+	display: inline;
+}
+
+#divContent {
+	clear: both;
+	float: left;
+}
+
+#divOuter {
+	margin: auto;
+	width: 1002px;
+}
+
+#image tr {
+	background-color: #E0E0E0;
+	border: 2px solid black;
+	width: 73em;
+	vertical-align: top;
+	align: center;
+}
+
+#image td {
+	padding: 10px;
+	cursor: pointer;
+	align: center;
+}
+
+#image_image tr {
+	background-color: #ffffff;
+	border: 5px solid black;
+	width: 1000px;
+	vertical-align: center;
+}
+
+#image_image td {
+	padding: 10px;
+	cursor: pointer;
+}
+
+#images {
+	display: inline;
+	width: 100px;
+	height: 100px;
+}
+
+#images img {
+	width: 256px;
+	height: 256px;
+	padding: 2px;
+	text-align: center;
+}
+/* #keyword tr{ */
+/*     background-color: #E0E0E0; */
+/*     border: 2px solid black; */
+/*     width: 73em; */
+/*     vertical-align: top; */
+/*     align: center; */
+/* } */
+#keyword td {
+	padding: 10px;
+	cursor: pointer;
+	align: center;
+}
+
+#keyword_image tr {
+	background-color: #ffffff;
+	border: 5px solid black;
+	width: 1000px;
+	vertical-align: center;
+}
+
+#keyword_image td {
+	padding: 10px;
+	cursor: pointer;
+}
+
+#link tr {
+	background-color: #E0E0E0;
+	border: 2px solid black;
+	width: 73em;
+	vertical-align: top;
+	align: center;
+}
+
+#link td {
+	padding: 10px;
+	cursor: pointer;
+	align: center;
+}
+
+#link_image tr {
+	background-color: #ffffff;
+	border: 5px solid black;
+	width: 1000px;
+	vertical-align: center;
+}
+
+#link_image td {
+	padding: 10px;
+	cursor: pointer;
+}
+
+#keywordInfo tr {
+	background-color: #E0E0E0;
+	border: 2px solid black;
+	width: 73em;
+	vertical-align: top;
+	align: center;
+}
+
+#keywordInfo td {
+	padding: 10px;
+	cursor: pointer;
+	align: center;
+}
+
+#keywordInfo_image tr {
+	background-color: #ffffff;
+	border: 5px solid black;
+	width: 1000px;
+	vertical-align: center;
+}
+
+#keywordInfo_image td {
+	padding: 10px;
+	cursor: pointer;
+}
+
+#sendbutton {
+	width: 100px;
+}
+
+#td_rank li {
+	margin-right: 20px;
+	display: inline;
+}

@@ -1,0 +1,36 @@
+/*********************************************************************************/
+/* Result                                                                       */
+/*********************************************************************************/
+#changepass_popup {
+	background-color: #fff;
+	border-radius: 15px;
+	color: #000;
+	display: none;
+	padding: 20px;
+	min-width: 400px;
+	min-height: 150px;
+	max-width: 525px;
+}
+
+.b-close {
+	cursor: pointer;
+	position: absolute;
+	right: 10px;
+	top: 5px;
+}
+
+#passDiv1 li, #passDiv2 li {
+	margin: 15px;
+}
+
+#passDiv1 input {
+	display: block;
+	position: relative;
+	float: right;
+	width: 190px;
+	padding: 5px;
+}
+
+#passDiv1 label {
+	margin-right: 10px;
+}
